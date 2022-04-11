@@ -1,0 +1,12 @@
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/bin/Debug/net6.0/NutriVitta.deps.json
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/bin/Debug/net6.0/NutriVitta.dll
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/bin/Debug/net6.0/NutriVitta.pdb
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/obj/Debug/net6.0/NutriVitta.csproj.AssemblyReference.cache
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/obj/Debug/net6.0/NutriVitta.GeneratedMSBuildEditorConfig.editorconfig
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/obj/Debug/net6.0/NutriVitta.AssemblyInfoInputs.cache
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/obj/Debug/net6.0/NutriVitta.AssemblyInfo.cs
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/obj/Debug/net6.0/NutriVitta.csproj.CoreCompileInputs.cache
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/obj/Debug/net6.0/NutriVitta.dll
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/obj/Debug/net6.0/refint/NutriVitta.dll
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/obj/Debug/net6.0/NutriVitta.pdb
+/home/peneluca/RiderProjects/NutriVitta/NutriVitta/obj/Debug/net6.0/ref/NutriVitta.dll
